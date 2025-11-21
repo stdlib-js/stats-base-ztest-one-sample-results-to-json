@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-19)
+## Unreleased (2025-11-21)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`e02e358`](https://github.com/stdlib-js/stdlib/commit/e02e358c5541ba0c4e5962dd15acb685b099b60c) - **docs:** fix example code in TSDoc comments _(by Philipp Burckhardt)_
 -   [`6771f4f`](https://github.com/stdlib-js/stdlib/commit/6771f4fa2dbfd8b1cb4547a30b03899721161714) - **docs:** fix missing period _(by Athan Reines)_
 -   [`cbf51ef`](https://github.com/stdlib-js/stdlib/commit/cbf51efff1a5cc1c872cd82f6124b0f50d9cba48) - **docs:** document parameters _(by Athan Reines)_
 -   [`c761dd8`](https://github.com/stdlib-js/stdlib/commit/c761dd89a4593d884c8b5a4bcc7e10e631124818) - **docs:** fix method name _(by Athan Reines)_
@@ -37,9 +38,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
